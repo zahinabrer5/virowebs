@@ -1,0 +1,21 @@
+body {
+    background-image: url('resources/covid-19-vaccine.jpg');
+    background-size: cover;
+}
+
+#stats {
+    background: skyblue;
+}
+
+.content {
+	background: #fff;
+	border-radius: 10px;
+	padding: 30px;
+}
+
+.vertical-center {
+    min-height: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
